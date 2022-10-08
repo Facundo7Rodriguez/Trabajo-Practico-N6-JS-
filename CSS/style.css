@@ -1,0 +1,16 @@
+h1{
+    font-size: 20pt;
+    font-family: serif;
+    text-align: center;
+}
+p{
+    font-size: 12pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 20pt;
+    font-family:  serif;
+}
+body{
+    background: darkolivegreen;
+}
